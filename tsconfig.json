@@ -9,6 +9,7 @@
     "outDir": "build", // distからbuildに変更済み
     "rootDir": ".",
     "declaration": true
+    ,"types": []
   },
   "include": ["**/*.ts"], // すべてのサブディレクトリの.tsファイルを含める
   "exclude": ["node_modules", "build"] // 除外先も変更済み
